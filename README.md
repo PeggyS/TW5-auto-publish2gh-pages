@@ -89,7 +89,7 @@ Once you have completed the first time setup, it is much easier to setup another
 8. Edit/add the required tiddlers and make a push. This can be done directly on github.
 
 # Editing tiddlers
-You can just edit or add new tiddlers directly on github, which is quite comfortable, or you can use a markdown editor. Tiddlywiki sintax is not exactly markdown, but it is close enough to use it as a small reference and markdown editors usually helps you completing lists and provide preview.
+You can just edit or add new tiddlers directly on github, which is quite comfortable, or you can use a markdown editor. Tiddlywiki syntax is not exactly markdown, but it is close enough to use it as a small reference and markdown editors usually helps you completing lists and provide preview.
 
 I recommend you to use prose, which is the tool I have used to edit this README:
 
